@@ -13,9 +13,9 @@ Voici la capture d’écran de l'application web pour la segmentation de la clie
 
 Conditions préalables <b\>
 
-pandas==2.0.1 <b\>
-pycaret==3.0.2 <b\>
-streamlit==1.21.0 <b\>
+pandas==2.0.1<b\>
+pycaret==3.0.2<b\>
+streamlit==1.21.0<b\>
 
 
 Pour exécuter l’application web localement sur votre ordinateur, téléchargez les fichiers à partir du dossier. Une base de données à été mis à votre disposition. Modifiez le chemin d’accès du Dataset à l’emplacement correspondant sur votre machine. Sur le terminal, exécuter la commande **(streamlit run app.py)**.
