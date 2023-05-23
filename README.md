@@ -11,8 +11,10 @@ Par conséquent, nous utiliserons des techniques d'apprentissage non supervisé 
 Voici la capture d’écran de l'application web pour la segmentation de la clientèle.
 
 
-Conditions préalables <b\>
+Conditions préalables :
+
 pandas==2.0.1
+
 pycaret==3.0.2
 
 streamlit==1.21.0
