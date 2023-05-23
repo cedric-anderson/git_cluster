@@ -17,6 +17,6 @@ pycaret==3.0.2
 streamlit==1.21.0
 
 
-Pour exécuter l’application web localement sur votre ordinateur, téléchargez les fichiers à partir du dossier. Une base de données à été mis à votre disposition. Modifiez le chemin d’accès du Dataset à l’emplacement correspondant sur votre machine. Sur le terminal, exécuter la commande **streamlit run app.py**.
+Pour exécuter l’application web localement sur votre ordinateur, téléchargez les fichiers à partir du dossier. Une base de données à été mis à votre disposition. Modifiez le chemin d’accès du Dataset à l’emplacement correspondant sur votre machine. Sur le terminal, exécuter la commande **(streamlit run app.py)**.
 
-Ou alors, vous aviez à votre disposition une base de données de vos clients et aimeriez les segmenter a fin de cibler une campagne marketing !, téléchargez les fichiers à partir du dossier, sur le terminale, exécuter la commande:)   **streamlit run app.py**
+Ou alors, vous aviez à votre disposition une base de données de vos clients et aimeriez les segmenter a fin de cibler une campagne marketing !, téléchargez les fichiers à partir du dossier, sur le terminale, exécuter la commande:)   **(streamlit run app.py)**
