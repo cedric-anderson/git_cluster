@@ -12,9 +12,7 @@ Voici la capture d’écran de l'application web pour la segmentation de la clie
 
 
 Conditions préalables <b\>
-
 pandas==2.0.1
-
 pycaret==3.0.2
 
 streamlit==1.21.0
