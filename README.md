@@ -1,4 +1,5 @@
-**# Customer Segmentation** est un systeme de segmentation de la clientèle, un moyen d’organiser vos prospects, contacts et clients par caractéristiques communes pour leur fournir des informations ciblées, une expérience personnalisée et des produits qui leur parlent.
+# Customer Segmentation
+est un systeme de segmentation de la clientèle, un moyen d’organiser vos prospects, contacts et clients par caractéristiques communes pour leur fournir des informations ciblées, une expérience personnalisée et des produits qui leur parlent.
 
 Dans le cadre de notre projet, on s'interresse à un constructeur automobile qui prévoit de pénétrer de nouveaux marchés avec ses produits existants (P1, P2, P3, P4 et P5). Après une étude de marché intensive, ils en ont déduit que le comportement du nouveau marché est similaire à celui de leur marché existant.
 
@@ -16,6 +17,6 @@ pycaret==3.0.2
 streamlit==1.21.0
 
 
-Pour exécuter l’application web localement sur votre ordinateur, téléchargez les fichiers à partir du dossier. Une base de données à été mis à votre disposition. Modifiez le chemin d’accès du Dataset à l’emplacement correspondant sur votre machine. Sur le terminal, exécuter la commande * streamlit run app.py *.
+Pour exécuter l’application web localement sur votre ordinateur, téléchargez les fichiers à partir du dossier. Une base de données à été mis à votre disposition. Modifiez le chemin d’accès du Dataset à l’emplacement correspondant sur votre machine. Sur le terminal, exécuter la commande **streamlit run app.py**.
 
-Ou alors, vous aviez à votre disposition une base de données de vos clients et aimeriez les segmenter a fin de cibler une campagne marketing !, téléchargez les fichiers à partir du dossier, sur le terminale, exécuter la commande:)   * streamlit run app.py *
+Ou alors, vous aviez à votre disposition une base de données de vos clients et aimeriez les segmenter a fin de cibler une campagne marketing !, téléchargez les fichiers à partir du dossier, sur le terminale, exécuter la commande:)   **streamlit run app.py**
